@@ -10,4 +10,4 @@ Um projeto que foi realizado na trilha Ignite da plataforma de estudos Rocketsea
 + Sass
 + Vite
 
-![Capturar](https://user-images.githubusercontent.com/66790414/185025437-064a3aec-289b-4160-b2d3-85c792604070.PNG)
+![Capturar](https://user-images.githubusercontent.com/66790414/185025829-a2f63628-78b8-456b-961a-9489b41df907.PNG)
